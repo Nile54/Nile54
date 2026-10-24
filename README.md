@@ -1,3 +1,3 @@
 # Nilesh Nandakumar
 
-Interested in software engineering and AI internships.
+Interested in software engineering and AI.
